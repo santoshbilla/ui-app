@@ -1,0 +1,3 @@
+[submodule "libs/shared-ui"]
+	path = libs/shared-ui
+	url = git@github.com:santoshbilla/shared-ui.git
